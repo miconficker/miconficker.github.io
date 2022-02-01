@@ -1,8 +1,19 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/miconficker/miconficker.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi. I'm Mico. I worked as a Network/Systems Admin for a radio station for 4 years.
+I worked mostly building and maintaining servers, switches, and radio equipment.
+I'm hoping to learn more AI & ML applications to broaden, and update my skillset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### TECH stack
+
+- Python
+- Keras
+- Tensorflow
+- Pandas
+- 
+
 
 ### Markdown
 
